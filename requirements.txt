@@ -9,4 +9,5 @@ openpyxl
 mlxtend
 requests
 streamlit-lottie
+networkx
 
