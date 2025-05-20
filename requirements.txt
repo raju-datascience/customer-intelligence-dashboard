@@ -8,4 +8,5 @@ scikit-learn
 openpyxl
 mlxtend
 requests
+streamlit-lottie
 
